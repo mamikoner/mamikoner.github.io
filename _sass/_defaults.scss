@@ -1,0 +1,17 @@
+html, body {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  color: $text-color;
+  line-height: $base-line-height;
+  background-color: $base-background;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+.container {
+  max-width: $container-max-width;
+  margin: 0 auto;
+  padding: 1rem;
+}
